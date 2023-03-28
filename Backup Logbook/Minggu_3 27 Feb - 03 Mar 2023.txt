@@ -1,0 +1,45 @@
+Apa yang kamu pelajari minggu ini?
+
+this week activity i learned a lot of new thing. i finished 4 courses this week. first course i finished is crash course on python. in this course i learned about data type on python,  data structure on python, and many more. and the second course that i finished is it automation with python. in this course i learn about linux os, command in linux, how to automate in linux os using python, etc. third course i finished is about version control specifically git and github. version control is used to track history about changed that has made to the code. and the last course i finished is debugging and troubleshooting. 
+
+sembunyikan
+
+Senin
+
+27 Feb 2023
+
+Apa yang kamu kerjakan hari ini?
+
+today’s activity is a self study on coursera platform. in this day i finished the first course which is crash course on python.
+
+Selasa
+
+28 Feb 2023
+
+Apa yang kamu kerjakan hari ini?
+
+today’s activity is a self study on coursera platform. in this day i learned to managing and directories in python and also learned to write and read a csv file.
+
+Rabu
+
+1 Mar 2023
+
+Apa yang kamu kerjakan hari ini?
+
+today’s activity is a self study on coursera platform. in this day i learned about regular expression known as regex in python. regex is basically query to search for a pattern inside a string and do something about that pattern.
+
+Kamis
+
+2 Mar 2023
+
+Apa yang kamu kerjakan hari ini?
+
+today’s activity is a self study on coursera platform. in this day i finished the IT Automation with python course. you need to write a script with a material that’s i had learned before.
+
+Jumat
+
+3 Mar 2023
+
+Apa yang kamu kerjakan hari ini?
+
+today’s activity is an ILT session about introduction to python and git / github. things that i learned is about basic python and basic git and github. 

@@ -1,0 +1,45 @@
+Apa yang kamu pelajari minggu ini?
+
+Throughout the week, I engaged in a self-study program on the Coursera platform, where I gained insightful knowledge on various topics related to data analysis. On the first day, I learned about the six essential steps of data analysis: asking the right questions, preparing data, processing, analyzing, sharing, and acting upon findings. The second day, I gained knowledge about the data ecosystem, which consists of various elements that interact with one another to produce, manage, store, organize, analyze, and share data. On the third day, I learned about the key aspects of analytical thinking, including visualization, strategy, problem orientation, correlation, big picture, and detail-oriented thinking. The fourth day saw me complete a course on preparing data for data exploration, where I gained an understanding of databases, data types, metadata, and other related concepts. Overall, this week's self-study program has helped me acquire valuable skills and knowledge, which I can apply in real-world scenarios.
+
+sembunyikan
+
+Senin
+
+6 Mar 2023
+
+Apa yang kamu kerjakan hari ini?
+
+today’s activity is a self-study on the Coursera platform. today i learned about six steps of data analysis that is ask, prepare, process, analyze, share, and act
+
+Selasa
+
+7 Mar 2023
+
+Apa yang kamu kerjakan hari ini?
+
+today’s activity is a self-study on the Coursera platform. today I learned about the data ecosystem. data ecosystem is various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data
+
+Rabu
+
+8 Mar 2023
+
+Apa yang kamu kerjakan hari ini?
+
+today’s activity is a self-study on the Coursera platform. today I learned about the key aspects to analytical thinking that is visualization, strategy, problem orientation, correlation, big picture and detail oriented thinking
+
+Kamis
+
+9 Mar 2023
+
+Apa yang kamu kerjakan hari ini?
+
+Today’s activity is a self-study on the Coursera platform. Today I learned how to ask a question to make a data-driven question. one method to ask effective questions is by using SMART Method
+
+Jumat
+
+10 Mar 2023
+
+Apa yang kamu kerjakan hari ini?
+
+Today’s activity is a self-study on the Coursera platform. Today I finished a course called "Prepare data for data exploration”. I learned about databases, data types in databases, metadata, etc.

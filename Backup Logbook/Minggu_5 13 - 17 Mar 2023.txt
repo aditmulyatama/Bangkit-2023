@@ -1,0 +1,45 @@
+Apa yang kamu pelajari minggu ini?
+
+This week, I learned a lot of new things. I learned about “Prepare Data for Exploration,” which teaches me how to get data from different sources and prepare them to be cleaned. I also learned about how to clean up data, such as by removing duplicates, removing null values, etc. After that, I learned how to visualize data by using Tableau, which is a very useful tool for data visualization. The next day, I learned about vectors, handling a vector, and vector operations such as multiplying and addition. And in the last day, I learned about finding the modulus (size), the angle between vectors (dot or inner product), and projections of one vector onto another
+
+selengkapnya
+
+Senin
+
+13 Mar 2023
+
+Apa yang kamu kerjakan hari ini?
+
+today’s activity is a self-study on the Coursera platform. today I finished course three of google data analytic which is “Prepare Data for Exploration”
+
+Selasa
+
+14 Mar 2023
+
+Apa yang kamu kerjakan hari ini?
+
+today’s activity is a self-study on the Coursera platform. today I finished fourth course of google data analytic which is “Process data from dirty to clean”
+
+Rabu
+
+15 Mar 2023
+
+Apa yang kamu kerjakan hari ini?
+
+today’s activity is a self-study on the Coursera platform. today I finished the sixth course of google data analytic which is “Share Data Through Art of Visualization”
+
+Kamis
+
+16 Mar 2023
+
+Apa yang kamu kerjakan hari ini?
+
+Today’s activity is a self-study on the Coursera platform. Today I learned about vector operation such as multiplication and addition.
+
+Jumat
+
+17 Mar 2023
+
+Apa yang kamu kerjakan hari ini?
+
+Today’s activity is a self-study on the Coursera platform. Today I learned about finding the modulus (size), angle between vectors (dot or inner product) and projections of one vector onto another
